@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>Nothing Internal Checker</title>
+    <style>
+        body { background: #000; color: #fff; font-family: sans-serif; text-align: center; padding: 20px; }
+        .card { max-width: 450px; margin: auto; border: 1px solid #333; padding: 20px; background: #0b0b0b; }
+        input { width: 80%; padding: 12px; margin-bottom: 15px; background: #000; border: 1px solid #444; color: #fff; text-align: center; }
+        button { width: 85%; padding: 12px; background: #fff; color: #000; font-weight: bold; border: none; cursor: pointer; }
+        
+        /* Yeh box hai jahan result dikhega */
+        .result-container {
+            width: 100%;
+            height: 450px;
+            margin-top: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            display: none;
+            background: #fff;
+            border: 2px solid #555;
+        }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>NOTHING(R) CHECKER</h2>
+    <input type="text" id="imeiNum" placeholder="ENTER 15 DIGIT IMEI" maxlength="15">
+    <button onclick="checkInternal()">CHECK STATUS</button>
+
+    <div id="resContainer" class="result-container">
+        <iframe id="myFrame" name="myFrame"></iframe>
+    </div>
+</div>
+
+<script>
+    function checkInternal() {
+        const imei = document.getElementById('imeiNum').value;
+        const frame = document.getElementById('myFrame');
+        const container = document.getElementById('resContainer');
+
+        if(imei.length !== 15) {
+            alert("Bhai, sahi IMEI dalo!");
+            return;
+        }
+
+        // Google Proxy URL jo Nothing ki security bypass karne mein madad karega
+        const finalUrl = "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=60&url=" + 
+                         encodeURIComponent("https://in.nothing.tech/pages/imei-result?imei=" + imei);
+        
+        // Simple Method (Direct Link in Frame)
+        const directUrl = "https://in.nothing.tech/pages/imei-result?imei=" + imei;
+
+        container.style.display = "block";
+        frame.src = directUrl; 
+    }
+</script>
+
+</body>
+</html>
