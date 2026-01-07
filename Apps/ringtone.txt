@@ -1,1 +1,0 @@
-https://itunes.apple.com/search?term=${encodeURIComponent(q)}&limit=500&entity=song
