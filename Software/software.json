@@ -5,8 +5,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(1).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/d6cb9faafb8c2bc5ae13f50ca1cde7fc5561eda3.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p2": {
@@ -14,8 +15,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/0b1a9c638a70e7454e46a6459d9f20e6cd5953b8.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p2a": {
@@ -23,8 +25,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/10c6c89d3c97a6f2338394096035e3129fcf8398.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p2aplus": {
@@ -32,8 +35,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a)%20Plus.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/f7788a5cb81ba5d86f476b003e4596cbc1133a33.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p3": {
@@ -41,8 +45,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/8b96a9ad74c44a089a86c213103c624ee74088ae.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p3a": {
@@ -50,8 +55,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/57c73fc36c537c04005cebe08bba0cd91d211f3a.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p3apro": {
@@ -59,8 +65,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Pro.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/57c73fc36c537c04005cebe08bba0cd91d211f3a.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "p3alite": {
@@ -68,8 +75,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Lite.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/1146f774dcd2c969f3f401b14029b60d9364c0c6.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "cmf1": {
@@ -77,8 +85,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(1).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/248ea05642c639ea459e0d71c70bf9cbdfe48c74.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     },
     "cmf2pro": {
@@ -86,8 +95,9 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(2)%20Pro.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/efa331e5b51ed67ea0dda9e86cba9992a00f222f.zip",
       "logs": [
-        "During installation, your device may use more power and feel warmer.",
-        "Performance will return to normal once the update is complete."
+        "The device may feel slightly warm.",
+        "This is part of the update process.",
+        "Normal performance resumes after."
       ]
     }
   }
