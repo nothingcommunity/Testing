@@ -5,8 +5,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(1).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/d6cb9faafb8c2bc5ae13f50ca1cde7fc5561eda3.zip",
       "logs": [
-        "Nothing OS Stable",
-        "Security Updates"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p2": {
@@ -14,8 +14,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/0b1a9c638a70e7454e46a6459d9f20e6cd5953b8.zip",
       "logs": [
-        "Nothing OS Stable",
-        "Glyph Improvements"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p2a": {
@@ -23,28 +23,17 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/10c6c89d3c97a6f2338394096035e3129fcf8398.zip",
       "logs": [
-  "Nothing OS Stable Release",
-  "Battery Icon & Volume Animation Update",
-  "Extra Dark Mode Optimisation",
-  "Dual SIM Ringtone Support",
-  "Enhanced Vibration & Haptic Feedback",
-  "Private Space Install Hint Fix",
-  "Camera Zoom Preview Stability",
-  "Status Bar & Quick Settings Fixes",
-  "Gesture Navigation Bug Fix",
-  "Faster Nearby Wi-Fi Search",
-  "Overall System Stability Improvements",
-  "December 2025 GMS Update",
-  "December 2025 Security Patch"
-]
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
+      ]
     },
     "p2aplus": {
       "disp": "B4.0-251218-2326",
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a)%20Plus.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/f7788a5cb81ba5d86f476b003e4596cbc1133a33.zip",
       "logs": [
-        "Nothing OS Stable",
-        "Battery Enhancements"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p3": {
@@ -52,8 +41,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/8b96a9ad74c44a089a86c213103c624ee74088ae.zip",
       "logs": [
-        "Nothing OS (Upcoming)",
-        "Next-Gen Glyph UI"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p3a": {
@@ -61,8 +50,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/57c73fc36c537c04005cebe08bba0cd91d211f3a.zip",
       "logs": [
-        "Nothing OS (Upcoming)",
-        "Balanced Performance"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p3apro": {
@@ -70,8 +59,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Pro.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/57c73fc36c537c04005cebe08bba0cd91d211f3a.zip",
       "logs": [
-        "Nothing OS (Upcoming)",
-        "Camera & Performance Boost"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "p3alite": {
@@ -79,8 +68,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Lite.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/1146f774dcd2c969f3f401b14029b60d9364c0c6.zip",
       "logs": [
-        "Nothing OS (Upcoming)",
-        "Lite Optimisations"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "cmf1": {
@@ -88,8 +77,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(1).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/248ea05642c639ea459e0d71c70bf9cbdfe48c74.zip",
       "logs": [
-        "Nothing OS Stable",
-        "CMF Custom Features"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     },
     "cmf2pro": {
@@ -97,8 +86,8 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(2)%20Pro.png",
       "url": "https://android.googleapis.com/packages/ota-api/package/efa331e5b51ed67ea0dda9e86cba9992a00f222f.zip",
       "logs": [
-        "Nothing OS (Upcoming)",
-        "Advanced CMF Features"
+        "During installation, your device may use more power and feel warmer.",
+        "Performance will return to normal once the update is complete."
       ]
     }
   }
