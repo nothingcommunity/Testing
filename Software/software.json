@@ -23,9 +23,21 @@
       "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a).png",
       "url": "https://android.googleapis.com/packages/ota-api/package/10c6c89d3c97a6f2338394096035e3129fcf8398.zip",
       "logs": [
-        "Nothing OS Stable",
-        "Performance Optimisation"
-      ]
+        [
+  "Nothing OS Stable Release",
+  "Battery Icon & Volume Animation Update",
+  "Extra Dark Mode Optimisation",
+  "Dual SIM Ringtone Support",
+  "Enhanced Vibration & Haptic Feedback",
+  "Private Space Install Hint Fix",
+  "Camera Zoom Preview Stability",
+  "Status Bar & Quick Settings Fixes",
+  "Gesture Navigation Bug Fix",
+  "Faster Nearby Wi-Fi Search",
+  "Overall System Stability Improvements",
+  "December 2025 GMS Update",
+  "December 2025 Security Patch"
+]
     },
     "p2aplus": {
       "disp": "B4.0-251218-2326",
