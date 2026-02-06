@@ -128,5 +128,18 @@
     "uuid": "uid_ml9ozugayfe0raxppel",
     "author": "MANISH_KURREY",
     "date": 1770395345286
+  },
+  {
+    "id": "id_1770395401780",
+    "title": "NEVER STOP",
+    "desc": "Nothing Icon and Google widget",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770395393844_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770395396264_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770395398002_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770395399427_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb34jx82tlmj28qx9a",
+    "author": "ROHIT",
+    "date": 1770395401780
   }
 ]
