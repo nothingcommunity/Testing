@@ -58,18 +58,5 @@
     "likes": 0,
     "author": "PC",
     "date": 1770381622603
-  },
-  {
-    "id": "id_1770382230021",
-    "title": "HI",
-    "desc": "",
-    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770382220636_lock_ss.jpg",
-    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770382222339_home_ss.jpg",
-    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770382223557_lock_wall.jpg",
-    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770382225483_home_wall.jpg",
-    "likes": 0,
-    "uuid": "uid_mkci3p1ezqgd7cq28ts",
-    "author": "PC",
-    "date": 1770382230021
   }
 ]
