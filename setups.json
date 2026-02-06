@@ -46,5 +46,17 @@
     "likes": 0,
     "author": "ADMIN",
     "date": 1770380501803
+  },
+  {
+    "id": "id_1770381622603",
+    "title": "GI",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770381607343_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770381609392_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770381610470_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770381612363_home_wall.jpg",
+    "likes": 0,
+    "author": "PC",
+    "date": 1770381622603
   }
 ]
