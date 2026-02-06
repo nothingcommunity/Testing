@@ -63,5 +63,18 @@
     "uuid": "uid_mlb2jqsu4pgp97s1u95",
     "author": "RAIHANOOR",
     "date": 1770394169719
+  },
+  {
+    "id": "id_1770394185274",
+    "title": "NANIS THEMES",
+    "desc": "Daily useful and iconic widgets",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770394172958_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770394174312_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770394175404_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770394176871_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlakiicbrsmk50dtxcn",
+    "author": "NANI",
+    "date": 1770394185274
   }
 ]
