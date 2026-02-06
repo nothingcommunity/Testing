@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "id_1770391501039",
+    "title": "LIGHT",
+    "desc": "Rood",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770391486178_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770391488138_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770391489708_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770391491230_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb15sjgetmphxurfcc",
+    "author": "SHANTO",
+    "date": 1770391501040
+  }
+]
