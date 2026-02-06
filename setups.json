@@ -24,5 +24,18 @@
     "uuid": "uid_mlb2ng03csa8ealnvvn",
     "author": "ANKIT ",
     "date": 1770393792397
+  },
+  {
+    "id": "id_1770393901036",
+    "title": "ATTITUDE ART",
+    "desc": "Trending style ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770393885647_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770393888510_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770393890847_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770393893316_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb2nntp60nbmk2hx3i",
+    "author": "YUVARAJ ",
+    "date": 1770393901036
   }
 ]
