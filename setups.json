@@ -219,5 +219,18 @@
     "uuid": "uid_mla9rbqgmvsved9g2h9",
     "author": "JITENDRA KANWAR",
     "date": 1770399829044
+  },
+  {
+    "id": "id_1770399925795",
+    "title": "BASIC STYLE ",
+    "desc": "Nothing ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770399910481_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770399912374_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770399913820_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770399915413_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb5w9bmehnorjxia2f",
+    "author": "MDALI",
+    "date": 1770399925799
   }
 ]
