@@ -297,5 +297,18 @@
     "uuid": "uid_mlbbawi85qcru7qxqf5",
     "author": "RAJ VERMA",
     "date": 1770409251134
+  },
+  {
+    "id": "id_1770409712449",
+    "title": "SALMAN SETUP",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770409692828_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770409695052_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770409696415_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770409698372_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlbbvpo8d25dhg9xx0u",
+    "author": "YASIR",
+    "date": 1770409712451
   }
 ]
