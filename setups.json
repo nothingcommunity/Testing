@@ -193,5 +193,18 @@
     "uuid": "uid_mlb34jx82tlmj28qx9a",
     "author": "ROHIT",
     "date": 1770396111517
+  },
+  {
+    "id": "id_1770396133431",
+    "title": "MINIMAL",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770396116595_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770396118602_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770396120345_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770396122263_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb3wa6fo6np9tmfrv",
+    "author": "ANKIT",
+    "date": 1770396133433
   }
 ]
