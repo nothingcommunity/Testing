@@ -232,5 +232,18 @@
     "uuid": "uid_mlb5w9bmehnorjxia2f",
     "author": "MDALI",
     "date": 1770399925799
+  },
+  {
+    "id": "id_1770400479819",
+    "title": "NATURE ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770400444649_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770400448541_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770400454259_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770400460981_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mla9b2axblsk1uigsad",
+    "author": "RUDRA PATIL",
+    "date": 1770400479822
   }
 ]
