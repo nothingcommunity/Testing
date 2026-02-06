@@ -22,5 +22,17 @@
     "likes": 0,
     "author": "ME",
     "date": 1770378983939
+  },
+  {
+    "id": "id_1770379055819",
+    "title": "KAM",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770379049236_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770379051631_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770379052861_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770379054318_home_wall.jpg",
+    "likes": 0,
+    "author": "ADMIN",
+    "date": 1770379055819
   }
 ]
