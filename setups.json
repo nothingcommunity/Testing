@@ -570,5 +570,18 @@
     "uuid": "uid_mlc5jsve8clpg0c067a",
     "author": "GRIFFITH ",
     "date": 1770459419151
+  },
+  {
+    "id": "id_1770460175600",
+    "title": "CLEAN AMOLED",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770460169316_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770460170657_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770460171708_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770460173243_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlc5lca2xibyljo4vcg",
+    "author": "USER",
+    "date": 1770460175600
   }
 ]
