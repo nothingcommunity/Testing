@@ -414,5 +414,18 @@
     "uuid": "uid_mlbsxogt3dy153nw464",
     "author": "RP",
     "date": 1770437904128
+  },
+  {
+    "id": "id_1770440226278",
+    "title": "CLASSIC WIDGETS",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770440217628_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770440220048_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770440221796_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770440224365_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlabxlq4w3esnj7irwc",
+    "author": "ADITYA",
+    "date": 1770440226279
   }
 ]
