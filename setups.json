@@ -622,5 +622,18 @@
     "uuid": "uid_mlc7x7jyxjwyi0w5z4d",
     "author": "SHIRSH",
     "date": 1770463041201
+  },
+  {
+    "id": "id_1770463624977",
+    "title": "MODERN RETRO",
+    "desc": "The wallpaper on the Homescreen is stock ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770463612775_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770463614603_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770463616084_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770463618139_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlc6ri74gb14ei0ocld",
+    "author": "HARSH",
+    "date": 1770463624978
   }
 ]
