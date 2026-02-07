@@ -674,5 +674,18 @@
     "uuid": "uid_mlcdz7d1skqq7tca0z",
     "author": "AYUSH",
     "date": 1770473445008
+  },
+  {
+    "id": "id_1770475016918",
+    "title": "MINIMAL HOME",
+    "desc": "One ui widgets + taco taco icon pack ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770475004383_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770475005910_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770475007175_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770475008614_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlcaksvemn2qgwugo",
+    "author": "FROXEN ",
+    "date": 1770475016918
   }
 ]
