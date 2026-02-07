@@ -713,5 +713,18 @@
     "uuid": "uid_mlb15jdcf2m73ok4s9b",
     "author": "SIDDHARTH BHARDWAJ ",
     "date": 1770477372736
+  },
+  {
+    "id": "id_1770480214643",
+    "title": "MINIMALIST",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770480202130_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770480204032_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770480205885_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770480207491_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlci0raslwkjoj1ykz",
+    "author": "RIGOR",
+    "date": 1770480214644
   }
 ]
