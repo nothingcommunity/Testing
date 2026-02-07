@@ -648,5 +648,18 @@
     "uuid": "uid_ml9w2tu9nt6f80o7hr",
     "author": "DHRUV",
     "date": 1770470416936
+  },
+  {
+    "id": "id_1770473317532",
+    "title": "TOJI FUSHIGURO",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770473298570_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770473300064_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770473301701_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770473303289_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlcdu6gpg22odrv8wrg",
+    "author": "DEADPOOL",
+    "date": 1770473317535
   }
 ]
