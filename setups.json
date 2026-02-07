@@ -518,5 +518,18 @@
     "uuid": "uid_mlc2hqvyks8o2x5afqp",
     "author": "HEMANTH",
     "date": 1770454662846
+  },
+  {
+    "id": "id_1770456848388",
+    "title": "MINIMAL MONOCHR",
+    "desc": "Newthing pro widgets, custom icons using iconpack studio",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770456831976_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770456833708_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770456835033_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770456836567_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlc3xwy61aiqxg031mu",
+    "author": "ESSG",
+    "date": 1770456848388
   }
 ]
