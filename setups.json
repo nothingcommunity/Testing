@@ -362,5 +362,18 @@
     "uuid": "uid_mlboz2iqmy8kcvsx7p",
     "author": "NUSH",
     "date": 1770432005377
+  },
+  {
+    "id": "id_1770435149021",
+    "title": "SURAJ'S STYLE ",
+    "desc": "Clean and clear",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435130302_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435131490_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435132828_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435134431_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlbr4g5lwhk13aw0bfr",
+    "author": "SURAJ",
+    "date": 1770435149021
   }
 ]
