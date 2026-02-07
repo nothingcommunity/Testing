@@ -375,5 +375,18 @@
     "uuid": "uid_mlbr4g5lwhk13aw0bfr",
     "author": "SURAJ",
     "date": 1770435149021
+  },
+  {
+    "id": "id_1770435442899",
+    "title": "NOTHING SETUP ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435426969_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435428722_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435430000_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770435431704_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb08h9pjec1epsjhm",
+    "author": "ARMAN MALIK ",
+    "date": 1770435442904
   }
 ]
