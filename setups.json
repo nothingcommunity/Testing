@@ -947,5 +947,18 @@
     "uuid": "uid_mlcn37a2dpyg1u8e1v5",
     "author": "HARISRATHER",
     "date": 1770550365760
+  },
+  {
+    "id": "id_1770553343001",
+    "title": "GLASS THEME",
+    "desc": "Glass widgets ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770553300843_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770553319716_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770553323399_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770553330763_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldpgxum0gggwhzkv579",
+    "author": "MEET",
+    "date": 1770553343002
   }
 ]
