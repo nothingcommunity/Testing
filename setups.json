@@ -869,5 +869,18 @@
     "uuid": "uid_mldajgi0nxa0yhy0j1",
     "author": "ST_K",
     "date": 1770528557612
+  },
+  {
+    "id": "id_1770528868795",
+    "title": "2A PLUS",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770528856463_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770528857997_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770528859792_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770528861677_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlda9oih9vfdzlvgx6",
+    "author": "VINAYAK",
+    "date": 1770528868796
   }
 ]
