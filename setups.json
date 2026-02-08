@@ -1103,5 +1103,18 @@
     "uuid": "uid_mle1dgbu0jrhxpgbrlle",
     "author": "SYTHE ",
     "date": 1770573099701
+  },
+  {
+    "id": "id_1770573745749",
+    "title": "MINIMALLYISHAN",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770573733433_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770573734481_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770573736470_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770573738331_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mle1o8z8jih9q8wu00k",
+    "author": "ISHAN",
+    "date": 1770573745749
   }
 ]
