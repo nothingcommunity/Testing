@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ota_p1",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "Nothing Phone (1) OTA",
+    "dev": "NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(1).png",
+    "desc": "Version: V3.2-251219-1652\n\nLogs: The device may feel slightly warm. This is part of the update process.",
+    "link": "aHR0cHM6Ly9hbmRyb2lkLmdvb2dsZWFwaXMuY29tL3BhY2thZ2VzL290YS1hcGkvcGFja2FnZS82ZmM2ZmUxYjFkNjA2OTFmNTc0Y2ExNjdhMGY3NTY1NjI1YWZmMDkwLnppcA==",
+    "screens": [],
+    "date": 1700000000001
+  },
+  {
+    "id": "ota_p2",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "Nothing Phone (2) OTA",
+    "dev": "NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2).png",
+    "desc": "Version: B4.0-251119-1654\n\nLogs: The device may feel slightly warm. This is part of the update process.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/0b1a9c638a70e7454e46a6459d9f20e6cd5953b8.zip",
+    "screens": [],
+    "date": 1700000000002
+  },
+  {
+    "id": "ota_p2a",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "Nothing Phone (2a) OTA",
+    "dev": "NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a).png",
+    "desc": "Version: B4.0-251128-2240\n\nLogs: Normal performance resumes after update.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/10c6c89d3c97a6f2338394096035e3129fcf8398.zip",
+    "screens": [],
+    "date": 1700000000003
+  },
+  {
+    "id": "ota_p2aplus",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "Phone (2a) Plus OTA",
+    "dev": "NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a)%20Plus.png",
+    "desc": "Version: B4.0-251218-2326\n\nLogs: System stability improvements.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/f7788a5cb81ba5d86f476b003e4596cbc1133a33.zip",
+    "screens": [],
+    "date": 1700000000004
+  },
+  {
+    "id": "ota_p3",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "Nothing Phone (3) OTA",
+    "dev": "NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3).png",
+    "desc": "Version: B4.0-251224-1229\n\nLogs: Major system update.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/8b96a9ad74c44a089a86c213103c624ee74088ae.zip",
+    "screens": [],
+    "date": 1700000000005
+  },
+  {
+    "id": "ota_cmf1",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "CMF Phone (1) OTA",
+    "dev": "CMF BY NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(1).png",
+    "desc": "Version: B4.0-251216-1717\n\nLogs: Optimization and fixes.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/248ea05642c639ea459e0d71c70bf9cbdfe48c74.zip",
+    "screens": [],
+    "date": 1700000000006
+  },
+  {
+    "id": "ota_cmf2pro",
+    "uuid": "ADMIN_UPLOAD",
+    "title": "CMF Phone (2) Pro OTA",
+    "dev": "CMF BY NOTHING",
+    "icon": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(2)%20Pro.png",
+    "desc": "Version: B4.0-251218-2326\n\nLogs: Performance improvements.",
+    "link": "https://android.googleapis.com/packages/ota-api/package/efa331e5b51ed67ea0dda9e86cba9992a00f222f.zip",
+    "screens": [],
+    "date": 1700000000007
+  }
+]
