@@ -999,5 +999,18 @@
     "uuid": "uid_mldux83nalzt9x1690t",
     "author": "CHRIS",
     "date": 1770562190977
+  },
+  {
+    "id": "id_1770565074329",
+    "title": "LEELA'S ANDROID",
+    "desc": "Music widgets, good minimal icons ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770565062030_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770565063702_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770565065454_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770565066843_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldwlz120zfy2x0phhjr",
+    "author": "LEELA ",
+    "date": 1770565074329
   }
 ]
