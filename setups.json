@@ -882,5 +882,18 @@
     "uuid": "uid_mlda9oih9vfdzlvgx6",
     "author": "VINAYAK",
     "date": 1770528868796
+  },
+  {
+    "id": "id_1770530366593",
+    "title": "AVTAR FIRE AND",
+    "desc": "By ayush Thakur ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770530324500_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770530327318_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770530330701_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770530334696_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldb7enfi9mg48bbfw",
+    "author": "AYUSH THAKUR ",
+    "date": 1770530366594
   }
 ]
