@@ -804,5 +804,18 @@
     "uuid": "uid_mld2zwrmd94liyywfze",
     "author": "JAY",
     "date": 1770515574154
+  },
+  {
+    "id": "id_1770517070583",
+    "title": "BOTANICAL WIZAR",
+    "desc": "Dotted time widget - 10-bit clock widget (Available on playstore) the widget is set on 24hrs. ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770517055150_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770517057496_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770517059038_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770517060882_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mld3shqg78l1elf1a6j",
+    "author": "AKASH SUBBA",
+    "date": 1770517070583
   }
 ]
