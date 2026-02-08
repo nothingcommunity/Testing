@@ -830,5 +830,18 @@
     "uuid": "uid_ml9oxzfertw6jp79zp",
     "author": "AKASH BHOI",
     "date": 1770518902085
+  },
+  {
+    "id": "id_1770522445365",
+    "title": "CAR SETUP",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770522434469_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770522435905_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770522437454_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770522439000_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlcg6zz3x8yltodnab",
+    "author": "JASHANDEEP",
+    "date": 1770522445365
   }
 ]
