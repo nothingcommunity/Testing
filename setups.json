@@ -973,5 +973,18 @@
     "uuid": "uid_mldr18q8olwk43wghy",
     "author": "KRISHNA YADAV ",
     "date": 1770555746046
+  },
+  {
+    "id": "id_1770556317691",
+    "title": "CMF PHONE 2 PRO",
+    "desc": "Photos widgets",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770556306637_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770556308209_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770556309431_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770556311066_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_ml9r8i48xmwimq6qiej",
+    "author": "ATHARV",
+    "date": 1770556317692
   }
 ]
