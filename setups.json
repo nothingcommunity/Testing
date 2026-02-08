@@ -908,5 +908,18 @@
     "uuid": "uid_mldggaeeub57sih6ccj",
     "author": "HYPER ",
     "date": 1770538141811
+  },
+  {
+    "id": "id_1770539186830",
+    "title": "BLACK AND WHITE",
+    "desc": "On home screen add atmosphere ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770539170891_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770539173054_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770539175012_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770539176728_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldh4dt06rkcoltaw8v",
+    "author": "RAJ SIDAM",
+    "date": 1770539186831
   }
 ]
