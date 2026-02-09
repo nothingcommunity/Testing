@@ -1285,5 +1285,18 @@
     "uuid": "uid_mlephqt7ml562d27xjs",
     "author": "ATHARVA",
     "date": 1770652601098
+  },
+  {
+    "id": "id_1770652855832",
+    "title": "OWN SETUP",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652844970_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652847001_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652848428_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652850064_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlfcpdn6s97texr656",
+    "author": "OM",
+    "date": 1770652855833
   }
 ]
