@@ -1168,5 +1168,18 @@
     "uuid": "uid_mla89rqimhjk238ppg",
     "author": "MR RAJIB",
     "date": 1770578451322
+  },
+  {
+    "id": "id_1770595408003",
+    "title": "FRESH",
+    "desc": "Nothing's default icon with playground widget ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770595401935_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770595403600_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770595405037_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770595406670_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlb15jdcf2m73ok4s9b",
+    "author": "SIDDHARTH BHARDWAJ ",
+    "date": 1770595408003
   }
 ]
