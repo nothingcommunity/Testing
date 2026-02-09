@@ -1272,5 +1272,18 @@
     "uuid": "uid_mlfcbxubkd73evbxfy",
     "author": "MACKIE_CMF",
     "date": 1770651889104
+  },
+  {
+    "id": "id_1770652601095",
+    "title": "STRANGER THINGS",
+    "desc": "Widget of nothing and icons from adaptive nothing icon .Some additional widget are use from glass widgets",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652587779_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652589876_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652591472_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770652593749_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlephqt7ml562d27xjs",
+    "author": "ATHARVA",
+    "date": 1770652601098
   }
 ]
