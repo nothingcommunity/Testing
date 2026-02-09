@@ -1194,5 +1194,18 @@
     "uuid": "uid_mlegb8rf1nwx2aafrb1",
     "author": "RAJWARDHANZ",
     "date": 1770598370057
+  },
+  {
+    "id": "id_1770608601201",
+    "title": "DINGUS CMF 1",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770608588857_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770608590381_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770608591932_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770608593288_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlemgoe5xaocftlnoc",
+    "author": "DINGUS ",
+    "date": 1770608601202
   }
 ]
