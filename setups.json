@@ -1428,5 +1428,18 @@
     "uuid": "uid_mlg1qg8tbjilx6z1um",
     "author": "VIKRAM VERMA",
     "date": 1770695353792
+  },
+  {
+    "id": "id_1770696778857",
+    "title": "NOTHING",
+    "desc": "App used for widget: Newthing widget",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770696770776_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770696772784_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770696774386_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770696776949_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlg2h0o7tjv4z47nyzs",
+    "author": "RAJAT THAKUR",
+    "date": 1770696778857
   }
 ]
