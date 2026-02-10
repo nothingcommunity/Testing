@@ -1545,5 +1545,18 @@
     "uuid": "uid_ml9on4tkknvp32q5lo",
     "author": "DEEPANSHU",
     "date": 1770739185054
+  },
+  {
+    "id": "id_1770740394203",
+    "title": "GREEN GOBLIN",
+    "desc": "Time, weather, nothing icon",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770740381337_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770740383909_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770740385815_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770740387351_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlgsykvaafkvr28i325",
+    "author": "INZMAM ",
+    "date": 1770740394204
   }
 ]
