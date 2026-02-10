@@ -1506,5 +1506,18 @@
     "uuid": "uid_mlg21z0s1p8okcbr0ep",
     "author": "S.RAJ",
     "date": 1770714230380
+  },
+  {
+    "id": "id_1770718040782",
+    "title": "AESTHETIC VIBR",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770718031325_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770718033372_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770718034957_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770718036723_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlgfq5df792qp6bhogb",
+    "author": "USER",
+    "date": 1770718040782
   }
 ]
