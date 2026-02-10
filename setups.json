@@ -1623,5 +1623,18 @@
     "uuid": "uid_mlgz9u8fe889qms8vt",
     "author": "NAZIDA ",
     "date": 1770750929144
+  },
+  {
+    "id": "id_1770751972944",
+    "title": "AURA",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770751949595_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770751951998_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770751953844_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770751960888_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlfa9x5b76z8x0gv9kd",
+    "author": "FARAZ",
+    "date": 1770751972944
   }
 ]
