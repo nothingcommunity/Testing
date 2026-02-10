@@ -1584,5 +1584,18 @@
     "uuid": "uid_mlagahijgiwbfpn9e3d",
     "author": "AKARSH",
     "date": 1770742656706
+  },
+  {
+    "id": "id_1770745026561",
+    "title": "BLACK NATURE",
+    "desc": "Widget app: Newthing widget & stickers downloaded from Pinterest",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770745016130_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770745018573_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770745020476_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770745023680_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlg2h0o7tjv4z47nyzs",
+    "author": "RAJAT THAKUR",
+    "date": 1770745026563
   }
 ]
