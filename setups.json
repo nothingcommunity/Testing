@@ -1675,5 +1675,18 @@
     "uuid": "uid_mlcmeobfhzgusl2wy3o",
     "author": "ATUL KRISHAN GOEL",
     "date": 1770791378616
+  },
+  {
+    "id": "id_1770796954536",
+    "title": "SPYDER ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770796948002_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770796949821_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770796951091_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770796952606_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlaexv4epy992354ts",
+    "author": "SPYDER",
+    "date": 1770796954537
   }
 ]
