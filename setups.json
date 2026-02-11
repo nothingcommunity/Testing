@@ -1766,5 +1766,18 @@
     "uuid": "uid_mlhq3865jewbo56yns",
     "author": "JOSH ",
     "date": 1770835583208
+  },
+  {
+    "id": "id_1770837094516",
+    "title": "B&W MAP",
+    "desc": "Simple map and monochrome",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770837080896_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770837082722_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770837084647_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770837086881_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlieiipbr21bvvgrx5",
+    "author": "CHOCKYCHUU",
+    "date": 1770837094517
   }
 ]
