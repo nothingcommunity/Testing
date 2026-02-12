@@ -2364,5 +2364,18 @@
     "uuid": "uid_mlfym1krl0zy45jem2j",
     "author": "PRATHAMESH NARAYANE",
     "date": 1770923394400
+  },
+  {
+    "id": "id_1770923652593",
+    "title": "SIMPLE ",
+    "desc": "Nothing problem widget",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770923639316_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770923641135_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770923643220_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770923644654_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljtx6awx90q7bqpslg",
+    "author": "USER",
+    "date": 1770923652593
   }
 ]
