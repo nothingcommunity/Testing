@@ -1922,5 +1922,18 @@
     "uuid": "uid_mljg4b2tkt35uhv4db",
     "author": "SURYA PRATAP ",
     "date": 1770900617380
+  },
+  {
+    "id": "id_1770913021133",
+    "title": "I AM BATMAN",
+    "desc": "Batman fan themed setup",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770913007506_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770913009041_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770913010219_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770913012217_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljnooqtshjrkpgzaal",
+    "author": "SOUNAK PAUL",
+    "date": 1770913021133
   }
 ]
