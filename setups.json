@@ -2299,5 +2299,18 @@
     "uuid": "uid_mljsx1rlwpi4t7bvfsk",
     "author": "KAIF",
     "date": 1770921752678
+  },
+  {
+    "id": "id_1770921857442",
+    "title": "MINIMAL",
+    "desc": "Simple,clean and minimal ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770921840187_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770921841889_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770921843252_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770921845063_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlab20own79wmp6cufb",
+    "author": "SANKETH K S",
+    "date": 1770921857442
   }
 ]
