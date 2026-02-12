@@ -1818,5 +1818,18 @@
     "uuid": "uid_mlivtmqpagomf9i10if",
     "author": "USER",
     "date": 1770866141746
+  },
+  {
+    "id": "id_1770867008885",
+    "title": "HORSE RIDER",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770866996846_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770866998454_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770867000091_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770867001949_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mliw7h51onburpmxgzq",
+    "author": "ND",
+    "date": 1770867008887
   }
 ]
