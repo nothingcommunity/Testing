@@ -2182,5 +2182,18 @@
     "uuid": "uid_mljqpmp271ilz8wuexy",
     "author": "ROHIT",
     "date": 1770917946777
+  },
+  {
+    "id": "id_1770918428305",
+    "title": "NAROTO",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770918410191_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770918412799_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770918414405_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770918416006_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljq2v8gl535lixgsm",
+    "author": "DJ MANI",
+    "date": 1770918428306
   }
 ]
