@@ -2078,5 +2078,18 @@
     "uuid": "uid_ml9q5ulwtc3sopw5gap",
     "author": "JOSH",
     "date": 1770914912521
+  },
+  {
+    "id": "id_1770915136304",
+    "title": "DHAIRYA KHADSE",
+    "desc": "New thing widgets download in Play Store ( set up by Dhairya khadse)",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770915115136_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770915117444_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770915119430_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770915123797_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljor64yjm1f288d6z",
+    "author": "DHAIRYA KHADSE ",
+    "date": 1770915136305
   }
 ]
