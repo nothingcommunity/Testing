@@ -1870,5 +1870,18 @@
     "uuid": "uid_mlbzxh7v8i4n78tckvm",
     "author": "NITISH",
     "date": 1770881374787
+  },
+  {
+    "id": "id_1770882267208",
+    "title": "GHIBLI-LIFE",
+    "desc": "Icon pack- Sticker ui",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770882253689_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770882255588_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770882257126_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770882259722_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mliuztl8t4q8n8wblj",
+    "author": "SANGBIT",
+    "date": 1770882267209
   }
 ]
