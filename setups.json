@@ -2221,5 +2221,18 @@
     "uuid": "uid_mljrep44x8a1p05p4q8",
     "author": "SOUL.KRIISH",
     "date": 1770919262829
+  },
+  {
+    "id": "id_1770919500680",
+    "title": "DIBYA",
+    "desc": "Glass Widgets\n\niOS Liquid Glass - Icon Pack",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770919471186_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770919473145_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770919474745_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770919476663_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljrftw1h7rszyt4x4q",
+    "author": "MR_DIBYA",
+    "date": 1770919500680
   }
 ]
