@@ -2247,5 +2247,18 @@
     "uuid": "uid_mljrndaxhulu4ki3g6t",
     "author": "PARTH NIMKAR",
     "date": 1770919512650
+  },
+  {
+    "id": "id_1770920702689",
+    "title": "ANIME ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770920688460_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770920690699_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770920692272_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770920694023_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljs8x6ye7b1kgj2sm5",
+    "author": "HABIB",
+    "date": 1770920702690
   }
 ]
