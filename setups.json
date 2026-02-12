@@ -2182,5 +2182,18 @@
     "uuid": "uid_mljprrbr1hny0q440hk",
     "author": "NOTHING USER",
     "date": 1770917867052
+  },
+  {
+    "id": "id_1770917946777",
+    "title": "MINIMAL",
+    "desc": "default nothing icon pack, wallpaper and widgets.",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770917930840_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770917933108_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770917934683_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770917938700_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljqpmp271ilz8wuexy",
+    "author": "ROHIT",
+    "date": 1770917946777
   }
 ]
