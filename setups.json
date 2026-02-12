@@ -1844,5 +1844,18 @@
     "uuid": "uid_mliy7i2q1l2epuwthwc",
     "author": "HARSH BHOSALE ",
     "date": 1770870351545
+  },
+  {
+    "id": "id_1770873582385",
+    "title": "SIMPLE ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770873567203_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770873569140_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770873570578_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770873572683_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlj01f8fqvij7oqus7b",
+    "author": "KETAN ",
+    "date": 1770873582386
   }
 ]
