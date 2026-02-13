@@ -2585,5 +2585,18 @@
     "uuid": "uid_mlk7x8tyd5wuaq21wld",
     "author": "NITISH SAH ",
     "date": 1770947172693
+  },
+  {
+    "id": "id_1770947752186",
+    "title": "NOTHING PHONE 2",
+    "desc": "You can redesign the apps ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947736909_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947738694_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947740355_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947741973_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlk8esquiraa3ckjhjj",
+    "author": "KUSHAL ",
+    "date": 1770947752186
   }
 ]
