@@ -3339,5 +3339,18 @@
     "uuid": "uid_mllcwsq3t9rjqek9e19",
     "author": "USER",
     "date": 1771015738108
+  },
+  {
+    "id": "id_1771016540533",
+    "title": "CLASSIC BLACK",
+    "desc": "Lock screen and home screen wallpaper are same only lock screen effect is enable. For volume widget newthing widgets pro app is used",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771016515411_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771016517243_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771016518526_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771016520511_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlfgh8dhj3xu4cnnhg",
+    "author": "AVIKOOL",
+    "date": 1771016540534
   }
 ]
