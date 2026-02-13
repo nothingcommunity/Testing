@@ -2832,5 +2832,18 @@
     "uuid": "uid_mljp4eiads1e76ss94v",
     "author": "M.MISHRA",
     "date": 1770967055254
+  },
+  {
+    "id": "id_1770967473649",
+    "title": "PHOTO'S MEMORI ",
+    "desc": "Add your photos and make your photos wallpapers , widgets (new widgets app) set up by Dhairya khadse \n",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770967458610_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770967460745_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770967462689_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770967468122_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljor64yjm1f288d6z",
+    "author": "DHAIRYA KHADSE ",
+    "date": 1770967473650
   }
 ]
