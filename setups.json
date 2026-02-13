@@ -2533,5 +2533,18 @@
     "uuid": "uid_mlacayb6keslin3koj8",
     "author": "USER",
     "date": 1770944150650
+  },
+  {
+    "id": "id_1770944275715",
+    "title": "MINIMISLIST",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944265110_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944266759_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944268116_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944269618_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlacayb6keslin3koj8",
+    "author": "HARSH ",
+    "date": 1770944275716
   }
 ]
