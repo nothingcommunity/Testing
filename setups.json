@@ -2572,5 +2572,18 @@
     "uuid": "uid_mlk7ftffiawn5x02sld",
     "author": "IFAT",
     "date": 1770946726656
+  },
+  {
+    "id": "id_1770947172693",
+    "title": "ASHOKA",
+    "desc": "No download, system widget and system icon pack used",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947133839_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947140719_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947145122_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770947155183_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlk7x8tyd5wuaq21wld",
+    "author": "NITISH SAH ",
+    "date": 1770947172693
   }
 ]
