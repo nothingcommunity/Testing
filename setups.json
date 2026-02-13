@@ -2624,5 +2624,18 @@
     "uuid": "uid_mlk9bq0dv7uh1kq4im",
     "author": "RAHUL",
     "date": 1770949360029
+  },
+  {
+    "id": "id_1770950142518",
+    "title": "SIMPLE SET-UP ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950121967_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950124007_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950125290_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950127370_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlk9ua6h1ckqb2052zvi",
+    "author": "MUSTAFA",
+    "date": 1770950142519
   }
 ]
