@@ -2741,5 +2741,18 @@
     "uuid": "uid_mlhqz3kg7bryrhvvt27",
     "author": "TESTSHOT.FLV",
     "date": 1770954630993
+  },
+  {
+    "id": "id_1770955675748",
+    "title": "SIMPLE AND CLAM",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770955666016_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770955668126_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770955669440_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770955671961_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlkczjgtxmiuhep2vt",
+    "author": "USER",
+    "date": 1770955675749
   }
 ]
