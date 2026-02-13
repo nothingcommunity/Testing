@@ -2546,5 +2546,18 @@
     "uuid": "uid_mlacayb6keslin3koj8",
     "author": "HARSH ",
     "date": 1770944275716
+  },
+  {
+    "id": "id_1770944891751",
+    "title": "EGO",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944871403_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944873860_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944876296_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944880392_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlg7azxszdl1ud3ucrf",
+    "author": "MALAY BARMAN",
+    "date": 1770944891752
   }
 ]
