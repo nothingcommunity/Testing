@@ -2650,5 +2650,18 @@
     "uuid": "uid_mlk9xox290fz9ooivj9",
     "author": "TRISHIK SARKAR",
     "date": 1770950201149
+  },
+  {
+    "id": "id_1770950843977",
+    "title": "SIMPLE CUSTOM",
+    "desc": "Use phone Widgets and defolt icon pack ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950821017_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950822726_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950824284_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770950825901_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlaky43memwf10m3t4c",
+    "author": "I.DUGGAL_13",
+    "date": 1770950843977
   }
 ]
