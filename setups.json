@@ -2767,5 +2767,18 @@
     "uuid": "uid_mljp4eiads1e76ss94v",
     "author": "M.MISHRA",
     "date": 1770958024914
+  },
+  {
+    "id": "id_1770958507275",
+    "title": "DEPTH WALLS",
+    "desc": "Using klwp and depth walls file .",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958500817_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958502569_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958503579_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958505542_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mkkuzv0gqnf16fsd3fe",
+    "author": "ROHIT",
+    "date": 1770958507275
   }
 ]
