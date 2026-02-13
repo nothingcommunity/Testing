@@ -3209,5 +3209,18 @@
     "uuid": "uid_mli2to0z7qjscizyf47",
     "author": "VIRAJ JADHAV",
     "date": 1771002537323
+  },
+  {
+    "id": "id_1771004528297",
+    "title": "CONQUEROR ",
+    "desc": "TIME LOCATION WEATHER ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771004511897_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771004514591_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771004515926_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771004517871_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldidsckj91i26ty2d8",
+    "author": "SPIDY",
+    "date": 1771004528297
   }
 ]
