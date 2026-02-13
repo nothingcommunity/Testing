@@ -2767,5 +2767,18 @@
     "uuid": "uid_mlegb8rf1nwx2aafrb1",
     "author": "RAJWARDHANZ",
     "date": 1770958882568
+  },
+  {
+    "id": "id_1770959246087",
+    "title": "BLACK BOLD BMW",
+    "desc": "Default nothing icon pack,home screen clock from Clock widget, lock screen bmw Logo is photo widget ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770959226361_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770959227990_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770959229341_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770959230941_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlkdsihh2oa34us1snm",
+    "author": "YUVRAJ SINGH",
+    "date": 1770959246087
   }
 ]
