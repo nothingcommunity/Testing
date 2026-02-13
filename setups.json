@@ -3274,5 +3274,18 @@
     "uuid": "uid_mll74oi9jh01vm2dfdl",
     "author": "USER",
     "date": 1771007018541
+  },
+  {
+    "id": "id_1771009087189",
+    "title": "CAR DARK SETUP",
+    "desc": "Using only nothing widgets simple and easy ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771009074941_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771009076404_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771009077585_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771009079035_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mll8urcd5ui6na3m065",
+    "author": "SMIT",
+    "date": 1771009087190
   }
 ]
