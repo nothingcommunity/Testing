@@ -2520,5 +2520,18 @@
     "uuid": "uid_mlk5bu50flast86q6nl",
     "author": "SAURYA",
     "date": 1770942493950
+  },
+  {
+    "id": "id_1770944150640",
+    "title": "MINIMISLIST",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944142419_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944143966_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944145295_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770944146527_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlacayb6keslin3koj8",
+    "author": "USER",
+    "date": 1770944150650
   }
 ]
