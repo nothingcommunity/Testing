@@ -2767,5 +2767,18 @@
     "uuid": "uid_mkkuzv0gqnf16fsd3fe",
     "author": "ROHIT",
     "date": 1770958507275
+  },
+  {
+    "id": "id_1770958882566",
+    "title": "GOLDEN HIGHWAY",
+    "desc": "Download iwidgets from playstore",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958872645_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958874879_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958876689_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770958880516_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlegb8rf1nwx2aafrb1",
+    "author": "RAJWARDHANZ",
+    "date": 1770958882568
   }
 ]
