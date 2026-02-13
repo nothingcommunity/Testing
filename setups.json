@@ -2559,5 +2559,18 @@
     "uuid": "uid_mlg7azxszdl1ud3ucrf",
     "author": "MALAY BARMAN",
     "date": 1770944891752
+  },
+  {
+    "id": "id_1770946726655",
+    "title": "PLAIN WHITE ",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770946714000_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770946716022_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770946717358_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770946718709_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlk7ftffiawn5x02sld",
+    "author": "IFAT",
+    "date": 1770946726656
   }
 ]
