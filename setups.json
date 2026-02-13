@@ -3326,5 +3326,18 @@
     "uuid": "uid_mllaqo73nqer8m63jp",
     "author": "ANKIT",
     "date": 1771012363271
+  },
+  {
+    "id": "id_1771015738108",
+    "title": "ONE",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771015732005_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771015733317_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771015734318_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771015735740_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mllcwsq3t9rjqek9e19",
+    "author": "USER",
+    "date": 1771015738108
   }
 ]
