@@ -2923,5 +2923,18 @@
     "uuid": "uid_mlk58g9fncbzgn1m0i",
     "author": "GOPINATH ",
     "date": 1770971933706
+  },
+  {
+    "id": "id_1770972223729",
+    "title": "LITE",
+    "desc": "",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770972215019_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770972216907_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770972218436_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1770972220196_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlkl8gy7137drn6j8mk",
+    "author": "USER",
+    "date": 1770972223729
   }
 ]
