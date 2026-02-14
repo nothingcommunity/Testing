@@ -3391,5 +3391,18 @@
     "uuid": "uid_mllplk8jk8eqtephv1h",
     "author": "PRIYANSHU CHAUHAN ",
     "date": 1771037209553
+  },
+  {
+    "id": "id_1771041269399",
+    "title": "MINIMALIST LOOK",
+    "desc": "Use atmosphere effect for Home screen, and glass effect for lock screen to get exactly same look.",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771041257582_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771041259311_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771041260638_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771041262075_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mllrn8z3wmg7nay9is",
+    "author": "ASAD KHAN",
+    "date": 1771041269399
   }
 ]
