@@ -3469,5 +3469,18 @@
     "uuid": "uid_mlca6gu04rwnsd8ivmq",
     "author": "RS",
     "date": 1771050463049
+  },
+  {
+    "id": "id_1771053290844",
+    "title": "MADARA & BMW",
+    "desc": "Clock widget form nothing playground and all icon defolt and lock screen photo widget ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771053277133_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771053282715_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771053284803_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771053287472_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mli3dz8zqsctcx7wpz",
+    "author": "AMAN",
+    "date": 1771053290844
   }
 ]
