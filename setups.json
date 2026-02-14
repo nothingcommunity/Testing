@@ -3625,5 +3625,18 @@
     "uuid": "uid_mllu382s2y1f29npy6j",
     "author": "SUJAL SINGH ",
     "date": 1771079693585
+  },
+  {
+    "id": "id_1771081758609",
+    "title": "SOMTIME LIKE GL",
+    "desc": "Use Lockscreen use depth wallpaper apk from playstore and glass effect launcher and glass widzets to playstore ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771081739182_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771081741840_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771081743753_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771081746628_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldthf4txr7p9mxj2no",
+    "author": "ABI RAHMANI",
+    "date": 1771081758609
   }
 ]
