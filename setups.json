@@ -3560,5 +3560,18 @@
     "uuid": "uid_mldhrb4rblwjndc8a1",
     "author": "SHUBHAM ",
     "date": 1771060161590
+  },
+  {
+    "id": "id_1771062992826",
+    "title": "DEFTONES",
+    "desc": "Sorry to mention but use glass effect for the homescreen and the main wallpaper for lockscreen  and download one ui widget from ps for the clock and icon studio -> samsung dark icon pack ",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771062980730_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771062983054_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771062984284_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771062986227_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlm4th5kkyxsdbi89ni",
+    "author": "PRAB ",
+    "date": 1771062992826
   }
 ]
