@@ -3378,5 +3378,18 @@
     "uuid": "uid_mlfc67ebnrto85ds5ps",
     "author": "FAIZ AHMAD",
     "date": 1771035686714
+  },
+  {
+    "id": "id_1771037209553",
+    "title": "IPHONE STYLE",
+    "desc": "Ios 17 icon pack",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771037198622_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771037200301_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771037201588_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771037202693_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mllplk8jk8eqtephv1h",
+    "author": "PRIYANSHU CHAUHAN ",
+    "date": 1771037209553
   }
 ]
