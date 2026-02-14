@@ -3495,5 +3495,18 @@
     "uuid": "uid_mlkjxbxsg2ic5qlcx5q",
     "author": "PRIYANSHU ",
     "date": 1771053568527
+  },
+  {
+    "id": "id_1771056473798",
+    "title": "DEFAULT SETTING",
+    "desc": "Use - Atmosphere Blur (for homescreen), Folders covers, photo widgets, screen time widgets.",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771056462010_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771056463561_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771056464567_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Setups/1771056466232_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlm0z7475a3jna0b07x",
+    "author": "AKHIL PANDEY ",
+    "date": 1771056473798
   }
 ]
