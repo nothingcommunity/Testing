@@ -12,21 +12,5 @@
     ],
     "verified": true,
     "date": 1771050711196
-  },
-  {
-    "id": "prj_1771183487005",
-    "uuid": "uid_mlo4rwnuqsuzuxid6bd",
-    "title": "BLUE STAR",
-    "author": "UMAR STAR ",
-    "avatar": null,
-    "desc": "Umar Star Ac ",
-    "link": "Umar Star Ac ",
-    "images": [
-      "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Projects/PRJ_1771183480379_s1.jpg",
-      "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Projects/PRJ_1771183482414_s2.jpg",
-      "https://raw.githubusercontent.com/nothingcommunity/Testing/main/Projects/PRJ_1771183484154_s3.jpg"
-    ],
-    "verified": true,
-    "date": 1771183487006
   }
 ]
