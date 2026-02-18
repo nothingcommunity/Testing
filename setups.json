@@ -3924,5 +3924,18 @@
     "uuid": "uid_ml9q3dztp1khtaz7j5r",
     "author": "YOGESH WAGHELA",
     "date": 1771394559225
+  },
+  {
+    "id": "id_1771397528226",
+    "title": "MONOCHROME",
+    "desc": "HOME SCREEN - Use the “Moon” wallpaper from the Depth Live Wallpaper app. \nApply Nothing’s Icon Pack. Add the Nothing Weather widget displaying sunrise and sunset information.a 1×1 Quick Settings widget for Wi-Fi and a 1×1 Battery widget.\n \nLock screen - Use the 4th clock face style.\nApply the “Blamouflage” wallpaper from the Backdrops app.",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771397512897_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771397514538_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771397515842_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771397517356_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mldd0u9fzfvz0dkl7p",
+    "author": "BABAI",
+    "date": 1771397528226
   }
 ]
