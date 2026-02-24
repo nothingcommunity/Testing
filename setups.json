@@ -4197,5 +4197,18 @@
     "uuid": "uid_mljpdu9afbebu2tsnj",
     "author": "RAVI GUPTA",
     "date": 1771905218577
+  },
+  {
+    "id": "id_1771923551690",
+    "title": "NEWTHING WIDGET",
+    "desc": "“European Style Café Exterior”",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771923529756_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771923531422_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771923532960_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1771923535002_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mljsb3fymss5l0vab",
+    "author": "SAJJAN KUMAR ",
+    "date": 1771923551692
   }
 ]
