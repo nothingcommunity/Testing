@@ -4444,5 +4444,18 @@
     "uuid": "uid_mm81s63mddy19h2v7u",
     "author": "VEDANT ",
     "date": 1772539385569
+  },
+  {
+    "id": "id_1772551833116",
+    "title": "SILVERX",
+    "desc": "The icons are the nothing icons itself and the Home screen and lock-screen wallpaper are same while the home screen is just blurred.",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772551811980_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772551814428_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772551820382_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772551822790_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlsc0liysxthwdl46pe",
+    "author": "SAKSHYAM SIJALI",
+    "date": 1772551833122
   }
 ]
