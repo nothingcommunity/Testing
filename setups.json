@@ -4561,5 +4561,18 @@
     "uuid": "uid_ml9qq9r3lqgbsl2fch",
     "author": "MURPHY",
     "date": 1772896168716
+  },
+  {
+    "id": "id_1772998250074",
+    "title": "PROFESSIONAL",
+    "desc": "For lock screen use depth live wallpaper and for home screen widgets use newthing widgets pro",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772998237879_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772998239847_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772998241275_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1772998242714_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mmi56siwlah2gxqd0os",
+    "author": "MRINAL",
+    "date": 1772998250081
   }
 ]
