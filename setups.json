@@ -4652,5 +4652,18 @@
     "uuid": "uid_mmkbgszhsylr1whdgkg",
     "author": "AKASH BHOI",
     "date": 1773129840359
+  },
+  {
+    "id": "id_1773146482562",
+    "title": "THUNDERBOLT ",
+    "desc": "Minimalistic pokemon lock and home screen setup!",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1773146466399_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1773146467688_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1773146469166_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_feb/1773146470908_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlg53795myghdkjlcm",
+    "author": "VED💤",
+    "date": 1773146482565
   }
 ]
