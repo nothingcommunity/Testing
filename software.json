@@ -1,0 +1,104 @@
+{
+  "software_data": {
+    "cmf1": {
+      "disp": "B4.0-260108-1653",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(1).png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Tetris_B4.0-260108-1653"
+    },
+    "cmf2pro": {
+      "disp": "B4.0-260108-1654",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/CMF%20Phone%20(2)%20Pro.png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Galaga_B4.0-260108-1654"
+    },
+    "p1": {
+      "disp": "V3.2-251231-0041",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(1).png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Spacewar_V3.2-251231-0041"
+    },
+    "p2": {
+      "disp": "B4.0-251226-1110",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/1a17c07b46dd73430e6c412b9f74d6d02dc0afe6/PHONE%20PICS/Nothing%20Phne%20(2)%20.png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Pong_B4.0-251226-1110"
+    },
+    "p2a": {
+      "disp": "B4.0-251230-2052",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a).png\n",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Pacman_B4.0-251230-2052"
+    },
+    "p2aplus": {
+      "disp": "B4.0-251230-2052",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(2a)%20Plus.png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/PacmanPro_B4.0-251230-2052"
+    },
+    "p3": {
+      "disp": "B4.0-251224-1229",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3).png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Metroid_B4.0-251224-1229"
+    },
+    "p3a": {
+      "disp": "B4.0-251229-2335",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a).png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Asteroids_B4.0-251229-2335"
+    },
+    "p3alite": {
+      "disp": "B4.0-260116-1904",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Lite.png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Galaxian_B4.0-260116-1904"
+    },
+    "p3apro": {
+      "disp": "B4.0-251229-2335",
+      "img": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/PHONE%20PICS/Nothing%20Phone%20(3a)%20Pro.png",
+      "logs": [
+        "VERSION MUST BE LOWER THAN SHOWN.",
+        "ONLY PREVIOUS → LATEST SUPPORTED.",
+        "UPGRADE WILL NOT DELETE YOUR DATA."
+      ],
+      "url": "https://github.com/spike0en/nothing_archive/releases/tag/Asteroids_B4.0-251229-2335"
+    }
+  }
+}
