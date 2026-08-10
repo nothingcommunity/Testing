@@ -8643,5 +8643,18 @@
     "uuid": "uid_mlnpuasjb64epdox7s7",
     "author": "SURAJ MAHTO ",
     "date": 1786205791780
+  },
+  {
+    "id": "id_1786364782468",
+    "title": "SPIDERMAN ",
+    "desc": "Newthing widget used at homescreen and  nothing official icon used",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1786364774013_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1786364776082_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1786364777704_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1786364779923_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mlasxezfn02081aa85",
+    "author": "UI EXPERIENCE ",
+    "date": 1786364782472
   }
 ]
