@@ -8786,5 +8786,18 @@
     "uuid": "uid_msxkx85uhxzqzp12x8e",
     "author": "ZENOS",
     "date": 1786992183017
+  },
+  {
+    "id": "id_1787127698739",
+    "title": "NIAGARA SETUP",
+    "desc": "Niagara stock widget and icons",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1787127676005_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1787127680350_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1787127682805_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_aug/1787127688056_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_msztignqi2bzmy07ekm",
+    "author": "ANISH PRAMANIK ",
+    "date": 1787127698740
   }
 ]
