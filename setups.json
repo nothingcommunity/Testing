@@ -9085,5 +9085,18 @@
     "uuid": "uid_mu1r8qto9xd1sr4ded",
     "author": "WDAHIT",
     "date": 1789421855102
+  },
+  {
+    "id": "id_1789598180674",
+    "title": "TAMUK",
+    "desc": "Tamuk tatar",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_sep/1789598164563_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_sep/1789598166936_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_sep/1789598168127_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_sep/1789598170287_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mu4o5hi1hruhuxgcgv",
+    "author": "ONE",
+    "date": 1789598180674
   }
 ]
