@@ -9332,5 +9332,18 @@
     "uuid": "uid_mvdstmtlz63yp6x6ckh",
     "author": "USER",
     "date": 1792326441259
+  },
+  {
+    "id": "id_1792326553419",
+    "title": "CMF PHONE 1",
+    "desc": "Clean and try",
+    "ssLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_oct/1792326529166_lock_ss.jpg",
+    "ssHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_oct/1792326531227_home_ss.jpg",
+    "wallLock": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_oct/1792326532440_lock_wall.jpg",
+    "wallHome": "https://raw.githubusercontent.com/nothingcommunity/Testing/main/2026_oct/1792326533828_home_wall.jpg",
+    "likes": 0,
+    "uuid": "uid_mvdstmtlz63yp6x6ckh",
+    "author": "5HXXZ!",
+    "date": 1792326553420
   }
 ]
